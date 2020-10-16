@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+.col-left {
+    width: 20%;
+    height: 700px;
+    float: left;
+    background-color: honeydew;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-left-top {
+    height: 200px;
+    background-color: lightcoral;
+}
+.col-left-bottom {
+    height: 500px;
+    background-color: lightslategrey;
+}
+.mainContent {
+    width: 70%;
+    height: 700px;
+    background-color: lightblue;
+}
